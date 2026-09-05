@@ -1,14 +1,14 @@
 - eng: "Grandmother"
   bur: "အဘွား"
-  img: "https://images.unsplash.com/photo-1544098281-073ae35c98b0?auto=format&fit=crop&w=400&q=80"
+  img: "https://fc.yaminhlaing.asia/assets/grandmother.jpg"
 
 - eng: "Grandfather"
   bur: "အဘိုး"
-  img: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=400&q=80"
+  img: "https://fc.yaminhlaing.asia/assets/grandfather.jpg"
 
 - eng: "Mother"
   bur: "အမေ"
-  img: "https://images.unsplash.com/photo-1554151228-14d9def656e4?auto=format&fit=crop&w=400&q=80"
+  img: "https://fc.yaminhlaing.asia/assets/mother.jpg"
 
 - eng: "Father"
   bur: "အဖေ"
@@ -16,36 +16,45 @@
 
 - eng: "Brother"
   bur: "ညီ / အစ်ကို"
-  img: "https://images.unsplash.com/photo-1517677129300-07b130802f46?auto=format&fit=crop&w=400&q=80"
+  img: "https://fc.yaminhlaing.asia/assets/brother.jpg"
 
 - eng: "Sister"
   bur: "အစ်မ / ညီမ"
-  img: "https://images.unsplash.com/photo-1552829285-d72b535d496a?auto=format&fit=crop&w=400&q=80"
+  img: "https://fc.yaminhlaing.asia/assets/sister.jpg"
 
 - eng: "Aunt"
   bur: "အဒေါ်"
-  img: "https://images.unsplash.com/photo-1583001859547-8ccb9c2f6d0d?auto=format&fit=crop&w=400&q=80"
+  img: "https://fc.yaminhlaing.asia/assets/aunt.jpg"
 
 - eng: "Uncle"
   bur: "ဦးလေး"
-  img: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=400&q=80"
+  img: "https://fc.yaminhlaing.asia/assets/uncle.jpg"
 
 - eng: "Cousin"
   bur: "ဝမ်းကွဲ"
-  img: "https://images.unsplash.com/photo-1602030028438-4cf153cbae9e?auto=format&fit=crop&w=400&q=80"
+  img: "https://fc.yaminhlaing.asia/assets/cousin.jpg"
 
 - eng: "Son"
   bur: "သား"
-  img: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?auto=format&fit=crop&w=400&q=80"
+  img: "https://fc.yaminhlaing.asia/assets/son.jpg"
 
 - eng: "Daughter"
   bur: "သမီး"
-  img: "https://images.unsplash.com/photo-1518831959646-742c3a14ebf7?auto=format&fit=crop&w=400&q=80"
+  img: "https://fc.yaminhlaing.asia/assets/daughter.jpg"
 
 - eng: "Parents"
   bur: "မိဘများ"
-  img: "https://images.unsplash.com/photo-1511895426328-dc8714191300?auto=format&fit=crop&w=400&q=80"
+  img: "https://fc.yaminhlaing.asia/assets/parents.jpg"
 
 - eng: "Siblings"
   bur: "မွေးချင်းများ"
-  img: "https://fc.yaminhlaing.asia/assets/nathan-dumlao-P5MXtYfgmmw-unsplash.jpg"
+  img: "https://fc.yaminhlaing.asia/assets/siblings.jpg"
+
+- eng: "Wife"
+  bur: "ဇနီး/မိန်းမ"
+  img: "https://fc.yaminhlaing.asia/assets/wife.jpg"
+
+- eng: "Husband"
+  bur: "ခင်ပွန်း/ယောင်္ကျား"
+  img: "https://fc.yaminhlaing.asia/assets/husband.jpg"
+
