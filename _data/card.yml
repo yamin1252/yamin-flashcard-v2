@@ -823,7 +823,7 @@
   voice: "windsuffing-mp3.mp3"
 
 - en: "Skiing"
-  mm: "စကိတ်စီးခြင်း
+  mm: "စကိတ်စီးခြင်း"
   img: "skiing-image.jpg"
   type: "Noun"
   unit: "Unit 3"
@@ -1006,7 +1006,7 @@
   topic: "Concept"
   voice: "emu-mp3.mp3"
 
- - en: "Pony"
+- en: "Pony"
   mm: "မြင်းပု"
   img: "pony-image.jpg"
   type: "Noun"
@@ -1014,7 +1014,7 @@
   topic: "Concept"
   voice: "pony-mp3.mp3"
 
- - en: "Gecko"
+- en: "Gecko"
   mm: "ပုတ်သင်ညို"
   img: "gecko-image.jpg"
   type: "Noun"
@@ -1135,7 +1135,7 @@
   voice: "often-mp3.mp3"  
 
 - en: "Never"
-  mm: "ဘယ်တော့
+  mm: "ဘယ်တော့မှ"
   img: "never-image.jpg"
   type: "Adverb"
   unit: "Unit 3"
@@ -1149,4 +1149,5 @@
   unit: "Unit 3"
   topic: "Frequency"
   voice: "always-mp3.mp3"  
+  
             
