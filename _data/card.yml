@@ -1300,7 +1300,7 @@
   type: "Noun"
   unit: "Unit 4"
   topic: "Home"
-  voice: "staircase-mp3.mp3"
+  voice: "staircases-mp3.mp3"
 
 - en: "Upstairs"
   mm: "အပေါ်ထပ်"
@@ -1908,7 +1908,7 @@
   type: "Noun"
   unit: "Unit 4"
   topic: "concept"
-  voice: "this-mp3.mp3"
+  voice: "that-mp3.mp3"
 
 - en: "These"
   mm: "ဒီအရာများ"
