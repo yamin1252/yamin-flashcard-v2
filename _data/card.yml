@@ -1990,14 +1990,6 @@
   topic: "concept"
   voice: "ride-mp3.mp3"
 
-- en: "Climb"
-  mm: "တက်သည်"
-  img: "climb-image.jpg"
-  type: "Verb"
-  unit: "Unit 5"
-  topic: "concept"
-  voice: "climb-mp3.mp3"
-
 - en: "Jump"
   mm: "ခုန်သည်"
   img: "jump-image.jpg"
@@ -2064,7 +2056,7 @@
 
 - en: "Businesswoman"
   mm: "အမျိုးသမီးလုပ်ငန်းရှင်"
-  img: "businessman-image.jpg"
+  img: "businesswoman-image.jpg"
   type: "Noun"
   unit: "Unit 5"
   topic: "concept"
@@ -2120,7 +2112,7 @@
 
 - en: "Piano"
   mm: "စန္ဒယား"
-  img: "Piano-image.jpg"
+  img: "piano-image.jpg"
   type: "Noun"
   unit: "Unit 5"
   topic: "concept"
@@ -2232,7 +2224,7 @@
 
 - en: "Proud"
   mm: "ဂုဏ်ယူဝံ့ကြွားသော"
-  img: "pround-image.jpg"
+  img: "proud-image.jpg"
   type: "Adjective"
   unit: "Unit 5"
   topic: "concept"
