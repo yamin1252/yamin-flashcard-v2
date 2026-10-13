@@ -2279,7 +2279,7 @@
   voice: "spend-mp3.mp3" 
 
 - en: "Born"
-  mm: "ကျွမ်းကျင်စွာ"
+  mm: "မွေးဖွားသည်"
   img: "born-image.jpg"
   type: "Verb"
   unit: "Unit 6"
@@ -2319,7 +2319,7 @@
   voice: "cost-mp3.mp3"
 
 - en: "Become"
-  mm: "ဖြစ်သည်"
+  mm: "ဖြစ်လာသည်"
   img: "become-image.jpg"
   type: "Verb"
   unit: "Unit 6"
@@ -2431,7 +2431,7 @@
   voice: "revolution-mp3.mp3"
 
 - en: "President"
-  mm: "တော်လှန်ရေး"
+  mm: "သမ္မတ"
   img: "president-image.jpg"
   type: "Noun"
   unit: "Unit 6"
@@ -2608,7 +2608,7 @@
 
 - en: "Popular"
   mm: "လူကြိုက်များသော"
-  img: "pouplar-image.jpg"
+  img: "popular-image.jpg"
   type: "Adjective"
   unit: "Unit 6"
   topic: "Feeling"
@@ -2670,11 +2670,4 @@
   topic: "Feeling"
   voice: "advanced-mp3.mp3"
 
-- en: "Excited"
-  mm: "စိုးရိမ်ပူပန်သော"
-  img: "excited-image.jpg"
-  type: "Adjective"
-  unit: "Unit 6"
-  topic: "Feeling"
-  voice: "excited-mp3.mp3"
-  
+
